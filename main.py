@@ -34,7 +34,7 @@ Be careful! Many perils await.
         "chicken", "horse", "cow", "sheep", "seahorse", "pig"
     ]
     pluralNiceMobNames = [
-        "chickens", "horses", "cows", "sheep", "seahorses", "sheep"
+        "chickens", "horses", "cows", "sheep", "seahorses", "pigs"
     ]
     colors = ["purple", "rainbow", "gray", "brown", "white", "green"]
 
