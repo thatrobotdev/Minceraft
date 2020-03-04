@@ -1,5 +1,6 @@
 # Minceraft
-![Run on Repl.it](https://repl.it/badge/github/@jamesjpk123/Minceraft)
+[![Run on Repl.it](https://repl.it/badge/github/@jamesjpk123/Minceraft)](https://repl.it/github/thatrobotdev/Minceraft)
+
 ## Problem Set Prompt
 ```python3
 # Ask the user at least three questions and store their answers in variables
