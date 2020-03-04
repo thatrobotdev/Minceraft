@@ -1,12 +1,3 @@
-# Ask the user at least three questions and store their answers in variables
-# For example: age = input ("How old are you: ")
-#              color = input ("What is your favorite color? ")
-#
-# Use if-elif-else statements to draw some conclusions
-# For example: if age > 14 and color == "red":
-#                 print ("You are Birthday Cake! You like...")
-#
-
 import random
 
 
