@@ -15,6 +15,7 @@ class bcolors: # colors for console text
     GREEN = '\033[92m'
     ORANGE = '\033[93m'
     UNDERLINE = '\033[4m'
+    FAIL = '\033[91m'
     ENDC = '\033[0m'
 
 gameCount = 0
