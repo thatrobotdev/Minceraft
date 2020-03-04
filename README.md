@@ -1,15 +1,17 @@
 # Minceraft
-
+![Run on Repl.it](https://repl.it/badge/github/@jamesjpk123/Minceraft)
 ## Problem Set Prompt
 ```python3
 # Ask the user at least three questions and store their answers in variables
-# For example: age = input ("How old are you: ")
-#              color = input ("What is your favorite color? ")
+# For example: 
+
+age = input ("How old are you: ")
+color = input ("What is your favorite color? ")
 #
 # Use if-elif-else statements to draw some conclusions
-# For example: if age > 14 and color == "red":
-#                 print ("You are Birthday Cake! You like...")
-#
+# For example: 
+if age > 14 and color == "red":
+  print ("You are Birthday Cake! You like...")
 ```
 
 Created on 3/3/2020 as homework for my Intro to Computer Programming class.
