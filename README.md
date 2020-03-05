@@ -1,8 +1,9 @@
 # Minceraft
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![Run on Repl.it](https://repl.it/badge/github/@jamesjpk123/Minceraft)](https://repl.it/github/thatrobotdev/Minceraft)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-[![Run on Repl.it](https://repl.it/badge/github/@jamesjpk123/Minceraft)](https://repl.it/github/thatrobotdev/Minceraft)
+
+
 
 ## Problem Set Prompt
 ```python3
